@@ -1,0 +1,13 @@
+%%mocodo
+:
+BRAND: brand code, brand name
+:::
+PRODUCT: product code, product name, description, picture, price, rate, status, #brand code->BRAND->brand code, #category code->CATEGORY->category code, #type code->TYPE->type code
+:
+CATEGORY: category code, category name, subtitle, picture, home order
+:
+
+
+:::
+TYPE: type code, type name
+:::::
